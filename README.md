@@ -1,6 +1,6 @@
 # Spring Bacth
 
-App que lê um arquivo CNAB e processsa e salva em um banco de dados.
+App que lê um arquivo CNAB, processa e salva em um banco de dados.
 
 ## H2 DB
 
